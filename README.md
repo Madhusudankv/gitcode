@@ -1,2 +1,2 @@
 # gitcode
-gitrepo
+gitrepo for command demonstration
