@@ -1,0 +1,6 @@
+
+step 1:curl -L https://www.opscode.com/chef/install.sh | sudo bash
+
+step 2: version ----->chef-client -v
+
+step 3:
